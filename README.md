@@ -17,3 +17,6 @@ Then, log off and log back in.
 ## Icons need copy 
 
 ![image](https://res.cloudinary.com/dk0053zbe/image/upload/v1607297719/Screen_Shot_2020-12-07_at_07.28.25_elpfxy.png)
+
+## NOTE
+- if you choose theme light or dark in mac os, you need re-copy icon suitable in folder light or dark icon in this repo
